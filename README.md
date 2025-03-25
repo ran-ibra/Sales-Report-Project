@@ -5,8 +5,6 @@ This project contains an interactive **Power BI Dashboard** analyzing sales, pro
 
 ## 📸 Dashboard Screenshots
 
-### 📊 Vedio
-![OverAll Veiw](powerbi.mp4)
 
 ### 📈 Sales & Profit Trends
 ![Sales Trend](images/2.jpg)
@@ -15,7 +13,7 @@ This project contains an interactive **Power BI Dashboard** analyzing sales, pro
 ![Products Performance](images/1.jpg)
 
 ### 🌍 Market Analysis
-![Market Analysis](images/4.jpg)
+![Market Analysis](images/3.jpg)
 
 ## 📂 Project Files
 - **Dashboard.pbix** → Power BI file 📊
