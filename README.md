@@ -7,6 +7,7 @@ This project contains an interactive **Power BI Dashboard** analyzing sales, pro
 
 ### 📊 Vedio
 ![OverAll Veiw](powerbi.mp4)
+
 ### 📈 Sales & Profit Trends
 ![Sales Trend](images/2.jpg)
 
