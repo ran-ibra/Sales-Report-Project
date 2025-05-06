@@ -25,5 +25,5 @@ This project contains an interactive **Power BI Dashboard** analyzing sales, pro
 2. Review insights from the sales report.
 3. Explore the README for project details.
 
-📌 **Author:** [Rana]  
-📌 **GitHub Repository:** [Your Repo Link](https://github.com/ran-ibra/Sales-Report-Project)
+📌 **Author:** Rana 
+📌 **GitHub Repository:** (https://github.com/ran-ibra/Sales-Report-Project)
